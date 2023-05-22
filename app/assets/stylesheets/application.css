@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+/* h1 {
+  font-size: 30px;
+}
+body {
+  padding: 20px;
+}
+input#question {
+  width: 50%;
+}
+input {
+  background-color: rgb(63, 134, 205);
+  border-radius: 5px;
+} */
